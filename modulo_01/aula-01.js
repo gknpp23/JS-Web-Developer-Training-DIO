@@ -1,7 +1,7 @@
 // AULA 01
 
 // Declarar variáveis 
-// let (variável) e const(constante)
+// let (variável) e const(constante) -> ESCOPO DE BLOCO
 
 // Para exemplificar, vamos calcular a área de um circulo
 let variavel_raio = 10;
