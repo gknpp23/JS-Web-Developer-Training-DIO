@@ -46,6 +46,8 @@ function funcao01(){
 }
 
 // Arrow function -> sintaxe reduzida
+// Se tiver apenas um return, pode ser reduzido em uma linha
+// () => valor_retornado
 // Não possui um contexto (escopo). não é possivel usar o this
 const funcao02 = () => { // anônima, não tem um rotuilo específico
     console.log('Saindo do forno');
