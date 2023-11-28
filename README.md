@@ -10,8 +10,7 @@
 </p>
 <br>
 <hr>
-<img src="img/JS.webp" align="right" width="400">
-
+<img src="img/JS.webp" align="right" width="500" height="500">
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
@@ -25,11 +24,16 @@
 
 ## Descrição do projeto 
 <p> 
-  Desafios propostos na trilha de aprendizado de Javascript na plataforma DIO
-  <br><br>
+  Este repositório é o resultado do meu trabalho durante um bootcamp de JavaScript.  
+  
+  Aqui, você encontrará anotações detalhadas e código-fonte relacionado ao projeto desenvolvido durante o curso.
+  
+  As anotações fornecem insights sobre a implementação e o desenvolvimento, enquanto o código está organizado no diretório `pokedex/`.
+
+  <br>
 </p>
 
-<br><br>
+<br>
 
 <hr>
 
