@@ -24,7 +24,7 @@
 <br><br>
 
 ## Descrição do projeto 
-<p align="justify"> 
+<p> 
   Desafios propostos na trilha de aprendizado de Javascript na plataforma DIO
   <br><br>
 </p>
