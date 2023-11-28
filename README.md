@@ -1,12 +1,14 @@
 <h1 align="center">| JS-Web-Developer-Training-DIO  |</h1> 
 <p align="center"><img src="img/DIO.png"  width="150"></p>
+<br>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&message=language&color=orange&style=for-the-badge&logo=HTML5"/>
   <img src="https://img.shields.io/static/v1?label=CSS&message=style sheets&color=blue&style=for-the-badge&logo=CSS3"/>
+  <img src="https://img.shields.io/static/v1?label=JS&message=programming language&color=yellow&style=for-the-badge&logo=Javascript"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
-<br><br>
+<br>
 <hr>
 <img src="img/JS.webp" align="right" width="400">
 
@@ -57,8 +59,8 @@ git clone https://github.com/gknpp23/JS-Web-Developer-Training-DIO
 ```
 <br>
 
-Todos os projetos estão dentro das pastas com nome **desafio-projeto-mod01** a **desafio-projeto-mod03**.
-Após acessar as pastas basta abrir o arquivo index.html com um Browser.
+Todos as anotações e exemplos estão dentro das pastas com nome **Cap_01** a **Cap_03**.
+
 <br>
 
 <hr>
