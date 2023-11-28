@@ -44,7 +44,7 @@
 ###   Projeto 01
 > https://formacaocss.netlify.app
 <br>
-<img src="img/proj01.png" align="center" width="1200">
+<img src="img/pokedex.png" align="center" width="1200">
 
 <br>
 
