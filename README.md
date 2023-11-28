@@ -19,7 +19,7 @@
 
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
 <br><br>
 
 ## Descrição do projeto 
@@ -39,7 +39,7 @@
 
 ## Funcionalidade
 
-:heavy_check_mark: Guardar projetos desenvolvidos durante o curso.  
+:heavy_check_mark: Guardar projetos desenvolvidos  e insights adicionais do bootcamp.
 
 <hr>
 
@@ -54,7 +54,7 @@
 
 <hr>
 
-## Como rodar a aplicação :arrow_forward:
+## Como Usar :arrow_forward:
 
 No terminal, clone o projeto: 
 
@@ -63,9 +63,15 @@ git clone https://github.com/gknpp23/JS-Web-Developer-Training-DIO
 ```
 <br>
 
-Todos as anotações e exemplos estão dentro das pastas com nome **Cap_01** a **Cap_03**.
+1. Todos as anotações e exemplos estão dentro das pastas com nome **Cap_01** a **Cap_03**.
+2. Explore a pasta `pokedex/` para revisar o código-fonte.
+
 
 <br>
+
+<hr>
+
+Espero que este recurso seja útil para quem procura aprender mais sobre JavaScript e acompanhar meu progresso durante o bootcamp.
 
 <hr>
 
