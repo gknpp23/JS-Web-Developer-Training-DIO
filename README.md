@@ -41,7 +41,7 @@
 
 ## Deploy da Aplicação :dash:
 
-###   Projeto 01
+###   Projeto - Pokedex
 > https://formacaocss.netlify.app
 <br>
 <img src="img/pokedex.png" align="center" width="1200">
