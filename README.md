@@ -18,7 +18,7 @@
 
 :small_blue_diamond: [Funcionalidade](#funcionalidade)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Deploy da projeto](#deploy-da-aplicação-dash)
 
 :small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
 
@@ -47,7 +47,7 @@
 
 <hr>
 
-## Deploy da Aplicação :dash:
+## Deploy da projeto :dash:
 
 ###   Projeto - Pokedex
 > [Pokedex](https://pokedex-project-dio.netlify.app/)
