@@ -10,7 +10,7 @@
 </p>
 <br>
 <hr>
-<img src="img/JS.webp" align="right" width="600" heigth="600">
+<img src="img/JS.webp" align="right" width="500" heigth="600">
 
 ### Tópicos 
 
@@ -24,16 +24,20 @@
 
 <br><br>
 
+
 ## Descrição do projeto 
 <p> 
   Este repositório é o resultado do meu trabalho durante um bootcamp de JavaScript.  
   
   Aqui, você encontrará anotações detalhadas e código-fonte relacionado ao projeto desenvolvido durante o curso.
+
   
   As anotações fornecem insights sobre a implementação e o desenvolvimento, enquanto o código está organizado no diretório `pokedex/`.
 
   <br>
+  
 </p>
+
 
 <br>
 
