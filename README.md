@@ -10,7 +10,7 @@
 </p>
 <br>
 <hr>
-<img src="img/JS.webp" align="right" height="500">
+<img src="img/JS.webp" align="right" height="550">
 
 ### Tópicos 
 
