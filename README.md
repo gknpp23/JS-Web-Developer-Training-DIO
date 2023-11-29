@@ -84,4 +84,4 @@ Copyright :copyright: 2022 - Formação JS DIO.
 
 <hr>
 
-<h2 align="center"> <em>&lt;/&gt;</em>  by <a href=https://github.com/gknpp23" target="_blank">Gabriel Knupp</a> </h2>
+<h2 align="center"> <em>&lt;/&gt;</em>  by <a href="https://github.com/gknpp23" target="_blank">Gabriel Knupp</a> </h2>
