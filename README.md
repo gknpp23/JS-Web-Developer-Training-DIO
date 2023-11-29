@@ -10,7 +10,8 @@
 </p>
 <br>
 <hr>
-<img src="img/JS.webp" align="right" width="500" height="500">
+<img src="img/JS.webp" align="right" height="500">
+
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
@@ -20,6 +21,7 @@
 :small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
 
 :small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
+
 <br><br>
 
 ## Descrição do projeto 
