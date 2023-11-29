@@ -25,7 +25,7 @@
 
 ## Descrição do projeto 
 <p> 
-  Este repositório é o resultado do meu trabalho durante um bootcamp de JavaScript.  
+  Este repositório é o resultado do meu trabalho durante o bootcamp de JavaScript da plataforma DIO.  
   
   Aqui, você encontrará anotações detalhadas e código-fonte relacionado ao projeto desenvolvido durante o curso.
 
@@ -40,7 +40,7 @@
 
 ## Funcionalidade
 
-:heavy_check_mark: Guardar projetos desenvolvidos  e insights adicionais do bootcamp.
+:heavy_check_mark: Guardar projeto desenvolvido e insights adicionais do bootcamp.
 
 <hr>
 
@@ -66,7 +66,6 @@ git clone https://github.com/gknpp23/JS-Web-Developer-Training-DIO
 
 1. Todos as anotações e exemplos estão dentro das pastas com nome **Cap_01** a **Cap_03**.
 2. Explore a pasta `pokedex/` para revisar o código-fonte.
-
 
 <br>
 
