@@ -11,20 +11,17 @@
 <br>
 <hr>
 
-
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
 :small_blue_diamond: [Funcionalidade](#funcionalidade)
 
-:small_blue_diamond: [Deploy da projeto](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Deploy da projeto](#deploy-do-projeto-dash)
 
-:small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Como executar](#como-executar-arrow_forward)
 
-<br>
 <p align="center"><img src="img/JS.webp"  width="500"></p>
-
 
 ## Descrição do projeto 
 <p> 
@@ -47,7 +44,7 @@
 
 <hr>
 
-## Deploy da projeto :dash:
+## Deploy do projeto :dash:
 
 ###   Projeto - Pokedex
 > [Pokedex](https://pokedex-project-dio.netlify.app/)
@@ -58,7 +55,7 @@
 
 <hr>
 
-## Como Usar :arrow_forward:
+## Como executar :arrow_forward:
 
 No terminal, clone o projeto: 
 
