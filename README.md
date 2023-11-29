@@ -22,8 +22,8 @@
 
 :small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
 
-<br><br>
-<img src="img/JS.webp" width="600" heigth="600">
+<br>
+<img src="img/JS.webp" align="center width="1200">
 
 ## Descrição do projeto 
 <p> 
