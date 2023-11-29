@@ -23,7 +23,8 @@
 :small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
 
 <br>
-<img src="img/JS.webp" align="center width="1200">
+<p align="center"><img src="img/JS.webp"  width="500"></p>
+
 
 ## Descrição do projeto 
 <p> 
@@ -33,9 +34,6 @@
 
   
   As anotações fornecem insights sobre a implementação e o desenvolvimento, enquanto o código está organizado no diretório `pokedex/`.
-
-  <br>
-  
 </p>
 
 
