@@ -10,7 +10,7 @@
 </p>
 <br>
 <hr>
-<img src="img/JS.webp" align="right" width="500" heigth="600">
+
 
 ### Tópicos 
 
@@ -23,7 +23,7 @@
 :small_blue_diamond: [Como usar](#como-rodar-a-aplicação-arrow_forward)
 
 <br><br>
-
+<img src="img/JS.webp" width="600" heigth="600">
 
 ## Descrição do projeto 
 <p> 
